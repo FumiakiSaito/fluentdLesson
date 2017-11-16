@@ -1,4 +1,4 @@
-# fluentdLesson
+# fluentd
 
 ## インストール
 
